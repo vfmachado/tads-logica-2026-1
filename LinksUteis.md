@@ -16,7 +16,3 @@ https://judge.beecrowd.com/pt/
 # Lista de Links úteis
 https://leetcode.com/studyplan/top-interview-150/
 
-
-# DISCORD
-
-* https://discord.gg/f3QVZGnFpp
